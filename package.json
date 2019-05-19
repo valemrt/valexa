@@ -1,0 +1,8 @@
+{
+  "name": "valexa",
+  "version": "0.0.1",
+  "dependencies": {
+    "ask-sdk": "^2.5.2",
+    "ask-sdk-core": "^2.5.2"
+  }
+}
